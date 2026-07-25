@@ -6,7 +6,7 @@
 Built for the Digital Heroes Web Development internship task kit (Role 05, Task A + B).
 
 ## Live site
-`<add your deployed URL here>`
+https://dattaprasadnaik.github.io/Digital_heroes_internship-project/
 
 ## Stack
 Vanilla HTML, CSS, and JavaScript — no framework, no page builder, no build step. Fonts are loaded from Google Fonts (Space Grotesk, Inter, JetBrains Mono).
